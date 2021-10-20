@@ -39,6 +39,12 @@ a {
     color: var(--link);
     text-decoration: none;
     margin-top: 0.25rem;
+    
+}
+
+a img:hover {
+    transition: 0.4s;
+    transform: translatey(-8px);
 }
 
 main {
